@@ -1,4 +1,8 @@
+week-10/backend/node_modules/
+week-10/node_modules
+desafio01/node_modules
 /node_modules
+.vscode/
 package-lock.json
 yarn.lock
 yarn-error.log
